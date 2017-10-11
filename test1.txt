@@ -1,2 +1,0 @@
-you are inside git in container
-this is test1
